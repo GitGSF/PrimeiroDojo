@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\bin\Debug\netcoreapp3.1\PrimeiroDojo.exe
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\bin\Debug\netcoreapp3.1\PrimeiroDojo.deps.json
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\bin\Debug\netcoreapp3.1\PrimeiroDojo.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\bin\Debug\netcoreapp3.1\PrimeiroDojo.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\bin\Debug\netcoreapp3.1\PrimeiroDojo.dll
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\bin\Debug\netcoreapp3.1\PrimeiroDojo.pdb
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\obj\Debug\netcoreapp3.1\PrimeiroDojo.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\obj\Debug\netcoreapp3.1\PrimeiroDojo.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\obj\Debug\netcoreapp3.1\PrimeiroDojo.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\obj\Debug\netcoreapp3.1\PrimeiroDojo.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\obj\Debug\netcoreapp3.1\PrimeiroDojo.dll
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\obj\Debug\netcoreapp3.1\PrimeiroDojo.pdb
+C:\Users\Dark_Cheedar\Desktop\PrimeiroDojo\obj\Debug\netcoreapp3.1\PrimeiroDojo.genruntimeconfig.cache
